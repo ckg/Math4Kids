@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Math4Kids</string>
+    <string name="Addition_Problem_Label">Πρόβλημα Πρόσθεσης</string>
+    <string name="Check_Your_Answers">Έλεγχος Απαντήσεων</string>
+    <string name="First_Number">1ος Αριθμός</string>
+    <string name="Inequality_Problem_Label">Πρόβλημα Ανισότητας</string>
+    <string name="Multiplication_Problem_Label">Πρόβλημα Πολλαπλασιασμού</string>
+    <string name="Radio_False">Λάθος</string>
+    <string name="Radio_True">Σωστό</string>
+    <string name="Results_Label">Αποτελέσματα</string>
+    <string name="Second_Number">2ος Αριθμός</string>
+    <string name="Subtraction_Problem_Label">Πρόβλημα Αφαίρεσης</string>
+    <string name="Your_Answer">Απάντηση</string>
+    <string name="Results_Text">Τα αποτελέσματα θα εμφανίζονται εδώ</string>
+    <string name="message1">\"Η απάντηση 1 είναι: \"</string>
+    <string name="message2">\"Η απάντηση 2 είναι: \"</string>
+    <string name="message3">\"Η απάντηση 2 είναι: \"</string>
+    <string name="message4">\"Η απάντηση 4 είναι: \"</string>
+    <string name="results_Toast_Message1">Μπράβο, 4 στις 4 απαντήσεις σωστές!!</string>
+    <string name="results_Toast_Message2">Καλή προσπάθεια, μπορείς και καλύτερα</string>
+    <string name="restart_Quiz">Ξανάρχισε</string>
+</resources>

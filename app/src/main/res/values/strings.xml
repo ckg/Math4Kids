@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Math4Kids</string>
+    <string name="Addition_Problem_Label">Addition Problem</string>
+    <string name="Subtraction_Problem_Label">Subtraction Problem</string>
+    <string name="Multiplication_Problem_Label">Multiplication Problem</string>
+    <string name="Inequality_Problem_Label">Inequality Problem</string>
+    <string name="First_Number">1st Number</string>
+    <string name="Second_Number">2nd Number</string>
+    <string name="Your_Answer">Answer</string>
+    <string name="Radio_True">True</string>
+    <string name="Radio_False">False</string>
+    <string name="Check_Your_Answers">Check your answers</string>
+    <string name="restart_Quiz">Restart Quiz</string>
+    <string name="Results_Label">Results</string>
+    <string name="Results_Text">Your Results will appear here</string>
+    <string name="results_Toast_Message1">Well done, 4 out 4 answers are correct!!</string>
+    <string name="results_Toast_Message2">Nice try, you could do better</string>
+    <string name="message1">Answer 1 is: <xliff:g id="message1" example="Right">%s</xliff:g> </string>
+    <string name="message2">Answer 2 is: <xliff:g id="message2" example="Right">%s</xliff:g> </string>
+    <string name="message3">Answer 3 is: <xliff:g id="message3" example="Right">%s</xliff:g> </string>
+    <string name="message4">Answer 4 is: <xliff:g id="message4" example="Right">%s</xliff:g> </string>
+
+</resources>
